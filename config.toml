@@ -53,9 +53,9 @@ defaultContentLanguage = "pt-br"           # Default language to use
   identifier = "categorias"
   url = "/categories/"
 [[menu.main]]
-  name = "external-link"
+  name = "crg"
   weight = 50
-  url = "https://gohugo.io"
+  url = "https://crg.eti.br"
 
 
 [params]
